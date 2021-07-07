@@ -1,0 +1,7 @@
+.v-application--wrap {
+    flex-direction: inherit;
+    justify-content: center;
+}
+.v-card__subtitle, .v-card__text, .v-card__title {
+    padding: 0 16px;
+}
