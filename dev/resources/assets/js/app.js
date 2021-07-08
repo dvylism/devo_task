@@ -15,7 +15,8 @@ window.Vue = require('vue');
  */
 
 // Vue.component('example-component', require('./components/ExampleComponent.vue'));
-Vue.component('data-refresh', require('./components/DataRefresh.vue'));
+// Vue.component('data-refresh', require('./components/DataRefresh.vue'));
+Vue.component('refresh-form', require('./components/RefreshForm'));
 
 
 

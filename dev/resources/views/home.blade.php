@@ -15,7 +15,7 @@
                         @endif
 
                         You are logged in!
-                        <data-refresh></data-refresh>
+                        <refresh-form></refresh-form>
 
                     </div>
                 </div>
